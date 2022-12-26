@@ -1,0 +1,11 @@
+1. Github account
+2. Empty Repo
+3. local system
+    git config --global user.name "Pradeepkumar pal"
+    git config --global user.email "pradeep2904pal@gmail.com"
+4. git push -u origin master
+    4.1. username? -> pradeepkumar pal
+    4.2. password? -> sha id or commit id
+    
+    
+ dummy changes
