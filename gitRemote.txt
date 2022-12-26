@@ -10,10 +10,13 @@
     
  dummy changes
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 new changes
 
 
 added new change 2
-=======
->>>>>>> 714369a2248863be6d999377c5ffdbaafdfbf648
+
+
+new changes
+
